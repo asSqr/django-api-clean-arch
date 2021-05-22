@@ -28,7 +28,7 @@ Imagem com fluxograma no futuro.
 - [Swagger](https://swagger.io/)
 
 
-## :smile: Author
+## :smile: Autor
 
 Feito por Dion Vítor, entre em contato:
 
