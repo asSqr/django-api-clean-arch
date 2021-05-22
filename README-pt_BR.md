@@ -15,7 +15,7 @@
 
 [English](https://github.com/DionVitor/django-api-clean-arch/blob/main/README.md) | Português
 
-## :smiley: Fluxograma
+## :bar_chart: Fluxograma
 
 Imagem com fluxograma no futuro.
 
@@ -27,6 +27,8 @@ Imagem com fluxograma no futuro.
 - [Django REST framework](https://www.django-rest-framework.org/)
 - [Swagger](https://swagger.io/)
 
+
+## :smile: Author
 
 Feito por Dion Vítor, entre em contato:
 
