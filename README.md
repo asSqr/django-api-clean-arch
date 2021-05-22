@@ -28,6 +28,8 @@ Image with flowchart here at future.
 - [Swagger](https://swagger.io/)
 
 
+## :smile: Author
+
 Make by Dion Vítor, contact:
 
 [![Gmail Badge](https://img.shields.io/badge/-dionvictor11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dionvictor11@gmail.com)](mailto:dionvictor11@gmail.com)
