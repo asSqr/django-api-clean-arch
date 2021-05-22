@@ -19,7 +19,7 @@ English | [Português](https://github.com/DionVitor/django-api-clean-arch/blob/m
 
 Image with flowchart at future.
 
-## :hammer: Tech Stack
+## :hammer: Tech stack
 
 - [Python](https://www.python.org/)
 - [Docker](https://www.docker.com/)
