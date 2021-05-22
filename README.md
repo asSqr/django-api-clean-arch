@@ -13,7 +13,7 @@
   </a>
 </p>
 
-English | [Português](https://github.com/DionVitor/django-api-clean-arch/blob/master/README-pt_BR.md)
+English | [Português](https://github.com/DionVitor/django-api-clean-arch/blob/main/README-pt_BR.md)
 
 ## :smiley: Flowchart
 
