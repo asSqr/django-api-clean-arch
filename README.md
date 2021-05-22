@@ -15,7 +15,7 @@
 
 English | [Português](https://github.com/DionVitor/django-api-clean-arch/blob/main/README-pt_BR.md)
 
-## :smiley: Flowchart
+## :bar_chart: Flowchart
 
 Image with flowchart here at future.
 
