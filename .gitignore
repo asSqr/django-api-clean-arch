@@ -3,3 +3,9 @@ packer_cache/
 
 # For built boxes
 *.box
+
+# venv
+venv/
+
+# python
+__pycache__
