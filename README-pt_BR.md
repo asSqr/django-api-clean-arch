@@ -1,15 +1,15 @@
 <h1 align="center">OrderCarts API</h1>
-<h2 align="center">A simple API RESTful with Django using clean architeture, to orchestrate OrderCarts with their items.</h2>
+<h2 align="center">API RESTful simples com Django usando clean architeture, para orquestrar OrderCarts com seus items.</h2>
 
 <p align="center">
   <a>
-    <img src="https://img.shields.io/badge/progress-50%25-brightgreen.svg" alt="progress">
+    <img src="https://img.shields.io/badge/progresso-50%25-brightgreen.svg" alt="progress">
   </a>
   <a>
-    <img src="https://img.shields.io/badge/contribuition-welcome-brightgreen.svg" alt="contribution">
+    <img src="https://img.shields.io/badge/contribuição-bem%20vindo-brightgreen.svg" alt="contribution">
   </a>
   <a>
-    <img src="https://img.shields.io/badge/version-1.0-brightgreen.svg" alt="version">
+    <img src="https://img.shields.io/badge/versão-1.0-brightgreen.svg" alt="version">
   </a>
 </p>
 
