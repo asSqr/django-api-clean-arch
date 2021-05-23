@@ -25,7 +25,6 @@ Image with flowchart at future.
 - [Docker](https://www.docker.com/)
 - [Django](https://www.djangoproject.com/)
 - [Django REST framework](https://www.django-rest-framework.org/)
-- [Swagger](https://swagger.io/)
 - [PostgreSQL](https://www.postgresql.org/)
 
 
