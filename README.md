@@ -1,5 +1,5 @@
-<h1 align="center">OrderCarts API</h1>
-<h2 align="center">A simple API RESTful with Django using clean architeture and repository pattern, to orchestrate OrderCarts with their items.</h2>
+<h1 align="center">Books API</h1>
+<h2 align="center">A simple API RESTful with Django using clean architeture and repository pattern, to orchestrate books in database.</h2>
 
 <p align="center">
   <a>
