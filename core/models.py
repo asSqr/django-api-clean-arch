@@ -7,7 +7,14 @@ class Item(models.Model):
     price = models.FloatField()
     description = models.TextField()
 
+    def __str__(self):
+        return self.name
+
 
 class OrderCart(models.Model):
     items = models.ForeignKey(Item, on_delete=models.CASCADE)
     client = models.OneToOneField(User, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"OrderCart's {self.client}"
+    
